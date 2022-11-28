@@ -12,7 +12,10 @@ require("dotenv").config()
 const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY || ""
 const GOERLI_RPC_URL =
     process.env.GOERLI_RPC_URL || "https://eth-goerli.alchemyapi.io/v2/your-api-key"
-const PRIVATE_KEY = process.env.PRIVATE_KEY || ""
+const PRIVATE_KEY_1 = process.env.PRIVATE_KEY_1 || ""
+const PRIVATE_KEY_2 = process.env.PRIVATE_KEY_1 || ""
+const PRIVATE_KEY_3 = process.env.PRIVATE_KEY_1 || ""
+const PRIVATE_KEY_4 = process.env.PRIVATE_KEY_1 || ""
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 const REPORT_GAS = process.env.REPORT_GAS
 
@@ -28,7 +31,7 @@ module.exports = {
         },
         goerli: {
             url: GOERLI_RPC_URL,
-            accounts: [PRIVATE_KEY],
+            accounts: [PRIVATE_KEY_1, PRIVATE_KEY_2, PRIVATE_KEY_3, PRIVATE_KEY_4],
             chainId: 5,
             blockConfirmations: 6,
             saveDeployments: true,

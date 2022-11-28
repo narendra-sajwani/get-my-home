@@ -1,3 +1,3 @@
-https://ipfs.io/ipfs/QmeKUaRknp8cLFaxGqTMz3ZRTv6HNAt736J7vWZLwD2CGA?filename=property-1.jpeg
-https://ipfs.io/ipfs/Qmbvnjb5fkMHK7PjyZ7aFEd7PuqBfS37o12x2usMRorYZC?filename=property-2.jpg
-https://ipfs.io/ipfs/Qme9mRLDJYiyohmxXAz3nQWbo4mZ9dJFzbgb3tzehJSpkw?filename=property-3.jpg
+https://ipfs.io/ipfs/QmdzEwky7NxeFHnPXuDREu1PnCprT3XbBDZ3oDZnnDz6JR?filename=p1.json
+https://ipfs.io/ipfs/QmY99jYSWosVxa6LpW88F2dgVabFNxza3kLPLnPAVxyb8w?filename=p2.json
+https://ipfs.io/ipfs/QmYGqpfEtd6QKhydfpgrs4BoPFKdceqrAvmQBrxhdsAEwD?filename=p3.json

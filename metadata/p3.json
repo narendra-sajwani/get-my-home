@@ -1,0 +1,33 @@
+{
+    "name": "Sweet Home",
+    "address": "Street-example, City-sample",
+    "description": "A home to just perfect for your family",
+    "image": "https://ipfs.io/ipfs/Qme9mRLDJYiyohmxXAz3nQWbo4mZ9dJFzbgb3tzehJSpkw?filename=property-3.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Medium sized Villa"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2400
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}

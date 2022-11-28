@@ -1,0 +1,33 @@
+{
+    "name": "Countryside Solitude Home",
+    "address": "Street-xyz, City-abc",
+    "description": "A home you can count on for some Me time!",
+    "image": "https://ipfs.io/ipfs/QmeKUaRknp8cLFaxGqTMz3ZRTv6HNAt736J7vWZLwD2CGA?filename=property-1.jpeg",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 35
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2019
+        }
+    ]
+}
